@@ -1,6 +1,8 @@
 # React + TypeScript + Vite + Firebase
 
-Sample order page with data fetch from a firebase backend
+Sample orders dashboard with data fetching from a firebase backend
+
+![Dashboard](./docs/dashboard.png)
 
 ### Installation
 
